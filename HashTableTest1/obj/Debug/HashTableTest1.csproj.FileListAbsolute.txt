@@ -1,0 +1,15 @@
+F:\SolutionTest\BornToDev\HashTableTest1\HashTableTest1\bin\Debug\HashTableTest1.exe.config
+F:\SolutionTest\BornToDev\HashTableTest1\HashTableTest1\bin\Debug\HashTableTest1.exe
+F:\SolutionTest\BornToDev\HashTableTest1\HashTableTest1\bin\Debug\HashTableTest1.pdb
+F:\SolutionTest\BornToDev\HashTableTest1\HashTableTest1\obj\Debug\HashTableTest1.csprojAssemblyReference.cache
+F:\SolutionTest\BornToDev\HashTableTest1\HashTableTest1\obj\Debug\MainWindow.g.cs
+F:\SolutionTest\BornToDev\HashTableTest1\HashTableTest1\obj\Debug\App.g.cs
+F:\SolutionTest\BornToDev\HashTableTest1\HashTableTest1\obj\Debug\HashTableTest1_MarkupCompile.cache
+F:\SolutionTest\BornToDev\HashTableTest1\HashTableTest1\obj\Debug\HashTableTest1_MarkupCompile.lref
+F:\SolutionTest\BornToDev\HashTableTest1\HashTableTest1\obj\Debug\MainWindow.baml
+F:\SolutionTest\BornToDev\HashTableTest1\HashTableTest1\obj\Debug\HashTableTest1.g.resources
+F:\SolutionTest\BornToDev\HashTableTest1\HashTableTest1\obj\Debug\HashTableTest1.Properties.Resources.resources
+F:\SolutionTest\BornToDev\HashTableTest1\HashTableTest1\obj\Debug\HashTableTest1.csproj.GenerateResource.cache
+F:\SolutionTest\BornToDev\HashTableTest1\HashTableTest1\obj\Debug\HashTableTest1.csproj.CoreCompileInputs.cache
+F:\SolutionTest\BornToDev\HashTableTest1\HashTableTest1\obj\Debug\HashTableTest1.exe
+F:\SolutionTest\BornToDev\HashTableTest1\HashTableTest1\obj\Debug\HashTableTest1.pdb

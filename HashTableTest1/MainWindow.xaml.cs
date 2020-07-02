@@ -56,7 +56,7 @@ namespace HashTableTest1
             {
                 int i = 0; // keep array count
                 string inText = keyTxt.Text;
-                //remove
+                //Icollection importance
                 ICollection icollection = hashTable.Keys;
                 foreach (string key in icollection)
                 {
